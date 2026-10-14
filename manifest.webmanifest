@@ -1,0 +1,25 @@
+{
+  "name": "Okuma Dünyası",
+  "short_name": "Okuma Dünyası",
+  "description": "1. sınıf için harf seviyesine göre kendini güncelleyen, blok dünyası temalı ilk okuma yazma uygulaması.",
+  "lang": "tr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#8ec9ff",
+  "theme_color": "#8ec9ff",
+  "icons": [
+    {
+      "src": "simge-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "simge-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
